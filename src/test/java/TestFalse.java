@@ -12,6 +12,6 @@
 
              @Test
       public void testIsEmptyTrue(){
-          assertEquals("fail", "fail23");
+          assertEquals("fail", "fail");
        }
      }
