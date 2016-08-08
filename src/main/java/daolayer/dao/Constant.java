@@ -15,6 +15,7 @@ public class Constant {
     public static final String USER_ID = "user_id";
     public static final String TIME_ADDED = "time_added";
     public static final String SEPARATOR = "-----------------------------------------";
+    public static final String SEPARATOR2 = "========================================";
 
     private Constant(){}
 }
