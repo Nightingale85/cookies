@@ -17,7 +17,7 @@ public class RequestLoggerListener implements ServletRequestListener {
 
     @Override
     public void requestDestroyed(ServletRequestEvent servletRequestEvent) {
-      //Do nothing
+      //Do nothin
     }
 
     @Override
