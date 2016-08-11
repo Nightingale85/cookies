@@ -3,11 +3,11 @@
 <head>
    <meta charset="utf-8">
    <title>Slick Login</title>
-   <link rel="stylesheet" type="text/css" href="cookies/resources/css/login.css" />
-   <link rel="stylesheet" type="text/css" href="cookies/resources/css/index.css" />
-   <script src="cookies/resources/js/jquery-2.2.3.js"></script>
-   <script src="cookies/resources/js/index.js"></script>
-   <script src="cookies/resources/js/jquery.cookie.js"></script>
+   <link rel="stylesheet" type="text/css" href="/resources/css/login.css" />
+   <link rel="stylesheet" type="text/css" href="/resources/css/index.css" />
+   <script src="/resources/js/jquery-2.2.3.js"></script>
+   <script src="/resources/js/index.js"></script>
+   <script src="/resources/js/jquery.cookie.js"></script>
 </head>
 <body>
 <header>
