@@ -39,7 +39,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <version>2.6</version>
                 <configuration>
-                    <warName>supercookies</warName>
+                    <warName>cookies</warName>
                     <outputDirectory>war</outputDirectory>
                     <webXml>..\Cookies\src\main\java\webapp\WEB-INF\web.xml</webXml>
                     <webResources>
