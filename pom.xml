@@ -41,45 +41,6 @@
                 <configuration>
                     <warName>cookies</warName>
                     <outputDirectory>war</outputDirectory>
-                    <webXml>..\Cookies\src\main\java\webapp\WEB-INF\web.xml</webXml>
-                    <webResources>
-                        <resource>
-                            <directory>\src\main\java\webapp\veiw\css</directory>
-                            <includes>
-                                <include>**/*.css</include>
-                            </includes>
-                            <targetPath>resources/css</targetPath>
-                        </resource>
-                        <resource>
-                            <directory>/src/main/java/webapp/veiw/img</directory>
-                            <includes>
-                                <include>**/*.png</include>
-                            </includes>
-                            <targetPath>resources/img</targetPath>
-                        </resource>
-                        <resource>
-                            <directory>/src/main/java/webapp/veiw/img</directory>
-                            <includes>
-                                <include>**/*.gif</include>
-                            </includes>
-                            <targetPath>resources/img</targetPath>
-                        </resource>
-                        <resource>
-                            <directory>/src/main/java/webapp/veiw/img</directory>
-                            <includes>
-                                <include>**/*.jpg</include>
-                            </includes>
-                            <targetPath>resources/img</targetPath>
-                        </resource>
-                        <resource>
-                            <directory>/src/main/java/webapp/veiw/js</directory>
-                            <includes>
-                                <include>**/*.js</include>
-                            </includes>
-                            <targetPath>resources/js</targetPath>
-                        </resource>
-
-                    </webResources>
                 </configuration>
             </plugin>
 
