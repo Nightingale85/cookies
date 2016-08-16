@@ -3,11 +3,11 @@
 <head>
    <meta charset="utf-8">
    <title>Slick Login</title>
-   <link rel="stylesheet" type="text/css" href="/cookies/resources/css/login.css" />
-   <link rel="stylesheet" type="text/css" href="/cookies/resources/css/index.css" />
-   <script src="/cookies/resources/js/jquery-2.2.3.js"></script>
-   <script src="/cookies/resources/js/index.js"></script>
-   <script src="/cookies/resources/js/jquery.cookie.js"></script>
+   <link rel="stylesheet" type="text/css" href="/cookies/veiw/css/login.css" />
+   <link rel="stylesheet" type="text/css" href="/cookies/veiw/css/index.css" />
+   <script src="/cookies/veiw/js/jquery-2.2.3.js"></script>
+   <script src="/cookies/veiw/js/index.js"></script>
+   <script src="/cookies/veiw/js/jquery.cookie.js"></script>
 </head>
 <body>
 <header>
@@ -18,7 +18,7 @@
          <img width=30px src="/cookies/resources/img/account-login-xxl.png">
       </a>
    </h1>
-   <img id="logo"src="/cookies/resources/img/irb3.gif">
+   <img id="logo"src="/cookies/veiw/img/irb3.gif">
    </img>
    <%
    String nick = (String) session.getAttribute("nick");
